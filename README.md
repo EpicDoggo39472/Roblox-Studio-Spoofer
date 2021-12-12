@@ -1,3 +1,3 @@
 # Roblox-Studio-Spoofer
 
-Roblox-Studio-Spoofer Spoofes Ur Hwid, Ip (via redirecting to roblox china), Encrypts ur Rbxl files (unpoisons them) and Encrypts Build Data in .rbxm
+Roblox-Studio-Spoofer Spoofs Ur Hwid, Ip (via redirecting to Roblox china), Encrypts your Rbxl files (unpoisons them), and Encrypts Build Data in .rbxm
